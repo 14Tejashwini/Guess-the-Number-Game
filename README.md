@@ -67,11 +67,5 @@ The goal is to guess the number in the **least number of attempts possible**.
 
 ---
 
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
 ### 👨‍💻 Author
 Made with ❤️ by TR
